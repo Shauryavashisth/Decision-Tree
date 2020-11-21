@@ -1,0 +1,14 @@
+ID                    Unique Customer ID
+Age                   Customer Age
+Experience            Number OF Year Of Prof.Experience
+Income                Annual Income of Consumer in $
+ZIP Code              Home Add Zip Code
+Family                Family Size
+CCAvg                 Avg. Spending From CC
+Education             Level OF Education
+Mortgage              Value Of House Morgage .if any
+Personal Loan         DO they have loan or no
+Securities Account    do they have sqcurities or no
+CD Account            do they have Certificate od Deposite or no
+Online                do they use Internet banking facilities
+CreditCard            do they use CC which is given by bank
